@@ -1,0 +1,39 @@
+# top row
+F,F
+F,F
+F,F
+F,F
+F,B
+F,F
+F,F
+F,B
+
+# start of middle row
+F,F
+F,F
+F,F
+F,F
+B,F
+F,F
+F,F
+B,F
+
+# start of bottom row
+F,F
+F,F
+F,F
+F,F
+B,F
+F,F
+F,F
+B,F
+
+# now middle row again back the other way
+F,F
+F,F
+F,F
+F,F
+F,B
+F,F
+F,F
+F,B
